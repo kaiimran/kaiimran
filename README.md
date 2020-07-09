@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋 Hi, my name is Khairul Imran, a Full Stack Developer.
+### 🔭 I’m currently working a full time job using PHP, Laravel, SQL, JavaScript, jQuery, Vue.js, HTML, CSS, Sass, Git/Bitbucket and AWS.
+### 📫 LinkedIn: www.linkedin.com/in/khairulimran99
 
 <!--
 **kaiimran/kaiimran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
