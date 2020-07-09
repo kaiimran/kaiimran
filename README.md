@@ -1,5 +1,6 @@
 ### 👋 Hi, my name is Khairul Imran, a Full Stack Developer.
-### 🔭 I’m currently working a full time job using PHP, Laravel, SQL, JavaScript, jQuery, Vue.js, HTML, CSS, Sass, Git/Bitbucket and AWS.
+### 🔭 Currently working a full time job using technologies such as:
+### PHP, Laravel, SQL, HTML/CSS/Sass, JavaScript, jQuery, Vue.js, Bitbucket and AWS.
 ### 📫 LinkedIn: www.linkedin.com/in/khairulimran99
 
 <!--
