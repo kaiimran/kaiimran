@@ -1,7 +1,11 @@
 ### 👋 Hi, my name is Khairul Imran, a Full Stack Developer.
 ### 🔭 Familiar with technologies such as:
 ### ⚡ PHP/Laravel, Node.js, Python, Bootstrap/Sass, jQuery, Ajax, Vue.js, REST API, GraphQL, MySQL, DynamoDB, Redis & AWS.
-### 📫 Contact me: twitter.com/khairulimran_ OR linkedin.com/in/khairulimran99
+### 📫 Reach me:
+<ul>
+  <li>www.twitter.com/khairulimran_</li>
+  <li>www.linkedin.com/in/khairulimran99</li>
+</ul>
 
 <!--
 **kaiimran/kaiimran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
